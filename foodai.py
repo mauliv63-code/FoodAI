@@ -6,7 +6,7 @@ from datetime import datetime
 from collections import Counter, deque
 
 # ============================================================
-# OPTIONAL CLAUDE AI
+# OPTIONAL AI
 # ============================================================
 
 try:
